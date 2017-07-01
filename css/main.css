@@ -52,14 +52,13 @@ margin-top:55px;
 .header-items .glyphicon{
 	font-size:17px;
 	margin:-5px;
-	color:#17233c;
-	margin-top:2px;
+    margin-top:2px;
 }
-.nav-margin{
+
+	.nav-margin{
 	position:relative;
-	right:270px;
-}
-	
+	left:-270px;
+	}
 .profile-image{
 	
     height:24px;
