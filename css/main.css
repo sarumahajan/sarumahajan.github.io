@@ -1,0 +1,294 @@
+#wrapper {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+#left-sidebar,
+#mainbar,
+#right-sidebar {
+  height: 750px;
+}
+
+#mainbar {
+	overflow: auto;
+	
+ }
+ #mainbar::-webkit-scrollbar{
+    display: none;
+}
+
+#left-sidebar,
+#mainbar,
+#right-sidebar {
+	    
+}
+
+/* header {
+  background-color: #4267b2;
+  height: 30px; 
+}*/
+
+body{
+	background-color:#e9ebee;
+margin-top:55px;
+}
+
+
+/**************header****************************/
+#header {
+	
+    background-color: #3b5998 !important;
+	border-bottom:1px solid #29487d;
+}
+ a{
+	 color:#365899;
+ }
+.header-items{
+  color: white !important;
+  background-color:#3b5998 !important;
+  
+}
+
+.header-items .glyphicon{
+	font-size:17px;
+	margin:-5px;
+	color:#17233c;
+	margin-top:2px;
+}
+.nav-margin{
+	position:relative;
+	right:270px;
+}
+	
+.profile-image{
+	
+    height:24px;
+	margin-top:-5px;
+	margin-right:-14px;
+	border-radius:4px;
+	
+}
+.logo-image{
+	
+	height:28px;
+	margin-top:-4px;
+	margin-left:30px;
+}
+.search-box{
+max-width: 448px;
+border: 1px solid #3b5998;
+border-radius: 3px;
+box-sizing: border-box;
+height: 29px;
+width:400px !important;
+margin:2px 0px 0px -20px;
+
+
+}	
+.search-btn{
+margin-top:2px;
+box-sizing: border-box;
+height:27px;
+margin-left:-10px;
+border:none;
+}
+
+
+/****************************leftside-bar*********************/
+.leftbar-textcolor{
+	color:black;
+	padding:0px 5px !important;
+	
+	
+}
+.shortcut-list{
+height:22px;
+margin-left:5px;
+margin-right:7px;
+border-radius:40%;
+
+}
+.menu-profile{
+height:27px;
+margin-right:10px;
+}
+
+.badge{
+	color:gray;
+	background-color:#e9ebee !important;
+	margin-left:33px !important;
+}
+.poke-badge{
+margin-left:43px !important;
+}	
+
+.nav .leftbar-heading{
+	margin-left:13px;
+}
+.leftbar-create{
+	padding:1px !important;
+	margin-left:9px;
+}
+
+
+
+
+
+
+
+
+</********************************mainbar******************/>
+
+
+.status-box{
+width:300px;
+padding:9px;
+
+}
+
+.header-image{
+	border:1px solid silver;
+	height:35px;
+	margin-right:10px;
+	margin-top:5px;
+}
+
+.glyphicon-textcontent{
+	margin-left:430px;
+	font-size:10px;
+	color:gray;
+}
+.title-bar{
+	font-size:15px;
+}
+
+.time-bar{
+	color:gray;
+	font-size:12px;
+	margin-top:-7px;
+	margin-left:49px;
+}
+.box-border{
+outline:none !important;
+border:none !important;
+}
+
+.glyphicon-imagecontent{
+	margin-left:260px;
+	font-size:10px;
+	color:gray;
+}
+.glyphicon-videocontent{
+	margin-left:360px;
+	font-size:10px;
+	color:gray;
+}
+
+
+.panel-body .content{
+margin-top:30px;
+   margin-left:-5px;
+  
+}
+	
+.panel-body .glyphicon{
+	padding:5px;
+}
+
+.comment-bar{
+	width:485px;
+	position:relative;
+	top:-35px;
+	left:35px;
+	margin-left:20px;
+}
+
+.comment-box{
+	position:relative;
+	bottom:33px;
+	top:-68px;
+	left:454px;
+	height:33px;
+	border:1px solid silver;
+	background-color:#E4E0DF;
+	color:black;
+		 
+}
+.comment-time{
+color:gray;
+}
+.image-post{
+	width:400px;
+	height:400px;
+	margin:0 auto;
+	margin-bottom:15px;
+	 
+}
+.video-post{
+	width:425px;
+	height:300px;
+	margin:0 auto;
+	 margin-bottom:15px;
+	 
+}
+
+.cmmt-margin{
+	margin-top:15px;
+}
+
+ .title-color{
+	color:gray;
+	font-size:15px;
+}
+	
+
+/*footer {
+  background-color: rgba(0,0,0,0.87);
+  height: 30px;
+}*/
+
+/*-----------------------------------------------rightside-bar-------------------------------------------------------------------------------*/
+
+
+.btn-size{
+	width:45%;
+	height:25px;
+	padding:0px;
+	color:black;
+}
+.text{
+	position:relative;
+	top:-10px;
+}
+
+.trending-background{
+	background-color:white;
+	border:1px solid #ddd;
+}
+.trending-border{
+	border-bottom:none;
+}
+.margin-tab{
+	position:relative;
+	left:90px;
+	padding:0px !important;
+	margin:6px;
+	font-size:15px;
+	color:gray;
+	
+	
+}
+.margintext{
+	margin:20px;
+	text-align:justify;
+}
+
+.trend-color{
+	color:#90949c;
+}
+.footer-text{
+	font-size:12px;
+	margin-left:-170px;
+	padding:1px;
+	
+}
