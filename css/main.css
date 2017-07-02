@@ -149,8 +149,6 @@ padding:9px;
 .header-image{
 	border:1px solid silver;
 	height:35px;
-	margin-right:10px;
-	margin-top:5px;
 }
 
 .glyphicon-textcontent{
@@ -166,7 +164,7 @@ padding:9px;
 	color:gray;
 	font-size:12px;
 	margin-top:-7px;
-	margin-left:49px;
+	margin-left:41px;
 }
 .box-border{
 outline:none !important;
@@ -194,45 +192,20 @@ margin-top:30px;
 .panel-body .glyphicon{
 	padding:5px;
 }
-
+.textalign{
+	text-algin:justify;
+}
 .comment-bar{
-	width:485px;
-	position:relative;
-	top:-35px;
-	left:35px;
-	margin-left:20px;
 	
+	height:35px;
 }
 
-.comment-box{
-	position:relative;
-	bottom:33px;
-	top:-68px;
-	left:454px;
-	height:33px;
-	border:1px solid silver;
-	background-color:#E4E0DF;
-	color:black;
-	
-		 
-}
+
 .comment-time{
 color:gray;
 }
-.image-post{
-	width:400px;
-	height:400px;
-	margin:0 auto;
-	margin-bottom:15px;
-	 
-}
-.video-post{
-	width:425px;
-	height:300px;
-	margin:0 auto;
-	 margin-bottom:15px;
-	 
-}
+
+
 
 .cmmt-margin{
 	margin-top:15px;
@@ -242,9 +215,7 @@ color:gray;
 	color:gray;
 	font-size:15px;
 }
-.textalign{
-	text-align:justify;
-}
+	
 
 /*footer {
   background-color: rgba(0,0,0,0.87);
