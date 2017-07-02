@@ -22,6 +22,9 @@
 #right-sidebar {
 	    
 }
+a{
+	 color:#365899;
+ }
 
 /* header {
   background-color: #4267b2;
@@ -40,9 +43,7 @@ margin-top:55px;
     background-color: #3b5998 !important;
 	border-bottom:1px solid #29487d;
 }
- a{
-	 color:#365899;
- }
+ 
 .header-items{
   color: white !important;
   background-color:#3b5998 !important;
@@ -146,10 +147,7 @@ padding:9px;
 
 }
 
-.header-image{
-	border:1px solid silver;
-	height:35px;
-}
+
 
 .glyphicon-textcontent{
 	margin-left:430px;
@@ -159,7 +157,10 @@ padding:9px;
 .title-bar{
 	font-size:15px;
 }
-
+.header-image{
+	border:1px solid silver;
+	height:35px;
+}
 .time-bar{
 	color:gray;
 	font-size:12px;
@@ -258,9 +259,4 @@ color:gray;
 .trend-color{
 	color:#90949c;
 }
-.footer-text{
-	font-size:12px;
-	margin-left:-170px;
-	padding:1px;
-	
-}
+
