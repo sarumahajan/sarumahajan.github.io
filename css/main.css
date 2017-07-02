@@ -242,7 +242,9 @@ color:gray;
 	color:gray;
 	font-size:15px;
 }
-	
+.textalign{
+	text-align:justify;
+}
 
 /*footer {
   background-color: rgba(0,0,0,0.87);
