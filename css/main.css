@@ -85,6 +85,7 @@ width:400px !important;
 margin:2px 0px 0px -20px;
 
 
+
 }	
 .search-btn{
 margin-top:2px;
@@ -211,9 +212,14 @@ color:gray;
 
  .title-color{
 	color:gray;
-	font-size:15px;
+	font-size:small;
 }
-	
+.like-bar{
+margin-top:30px;
+}
+.img-content{
+	margin:0 auto;
+}
 
 /*footer {
   background-color: rgba(0,0,0,0.87);
