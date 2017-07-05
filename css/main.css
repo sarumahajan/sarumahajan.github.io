@@ -33,7 +33,7 @@ a{
 
 body{
 	background-color:#e9ebee;
-margin-top:55px;
+margin-top:42px;
 }
 
 
@@ -50,17 +50,26 @@ margin-top:55px;
   
 }
 
+
 .header-items .glyphicon{
 	font-size:17px;
-	margin:-5px;
+	
     margin-top:2px;
 	color:#17233c;
 }
-
-	.nav-margin{
-	position:relative;
-	left:-180px;
+   .nav .glyphicon{
+   
+	margin:-30px;
+	
 	}
+	.nav .items{
+	position:relative;
+	left:-240px;
+	}
+	.home{
+		margin-right:10px;
+	}
+	
 .profile-image{
 	
     height:24px;
@@ -95,6 +104,19 @@ margin-left:-10px;
 border:none;
 }
 
+.navbar-right .badge{
+	
+	border-radius:2px;
+	background-color:#fa3e3e!important;
+	padding: 1px 3px;
+	color:white;
+	position:relative;
+	left:-39px;
+	top:-15px;
+	
+}
+
+	
 
 /****************************leftside-bar*********************/
 .leftbar-textcolor{
@@ -221,6 +243,7 @@ margin-top:30px;
 	margin:0 auto;
 }
 
+
 /*footer {
   background-color: rgba(0,0,0,0.87);
   height: 30px;
@@ -266,3 +289,12 @@ margin-top:30px;
 	color:#90949c;
 }
 
+@media (max-width :750px) {
+	.nav .items{
+		margin-left:230px;
+	}
+	.nav .glyphicon{
+	
+		margin-left:5px;
+	}
+}
