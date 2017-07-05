@@ -39,7 +39,6 @@ margin-top:42px;
 
 /**************header****************************/
 #header {
-	
     background-color: #3b5998 !important;
 	border-bottom:1px solid #29487d;
 }
@@ -290,6 +289,7 @@ margin-top:30px;
 }
 
 @media (max-width :750px) {
+	
 	.nav .items{
 		margin-left:230px;
 	}
